@@ -1,0 +1,32 @@
+deployment- 
+cloud deployment helps the user to get insight view of the development which makes it ez to developer
+
+operate-
+helps both developer and operator to collab in a such a way that everything around the devopes lifecycle is ez to manage and RUN
+ 
+Relese-
+deployment of realtime servers is done manually and its involved in whole team to be done the background check for the application 
+ 
+
+Devops Principals
+- end to end Respossibility -
+ 	DevOps team need to provide 	performance support until they 	become the end of life. It 	enhances the responsibility and 	the quality of the products engineered.
+ 
+Continous Improvenmet-
+ 	this helps minimizeing waste it 	also continously speed up the 	growth of the Develpoment and sercice offered
+ 
+Automate Everything 
+- Automation is an essential principle of the DevOps 
+
+PAt
+ t2cut4foqxrrns2jvwkoomfzycldxz3vpfhnk4flve6e7zpebo4a
+	
+
+
+AWS Root ac pass
+qj-J7sm%NxX+Cw(
+
+
+
+
+
