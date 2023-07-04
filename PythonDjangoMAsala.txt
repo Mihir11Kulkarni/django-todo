@@ -1,0 +1,29 @@
+ 1  yum install git
+    2  git clone https://github.com/Mihir11Kulkarni/django-todo
+    3  ls
+    4  cd django-todo/
+    5  ls
+    6  python manage.py makemigrations
+    7  yum install python
+    8  python -version
+    9  python --version
+   10  python manage.py makemigrations
+   11  pip --version
+   12  yum install pip
+   13  pip install django
+   14  python manage.py makemigrations
+   15  python manage.py migrate
+   16  python manage.py runserver
+   17  python manage.py runserver 0.0.0.0:8000
+   18  ls
+   19  cd todoApp/
+   20  ls
+   21  vi settings.py
+   22  cd ...
+   23  cd ..
+   24  ls
+   25  python manage.py runserver 0.0.0.0:8000
+   26  cd todoApp/
+   27  vi settings.py
+   28  cd ..
+   29  python manage.py runserver 0.0.0.0:8000
